@@ -1,0 +1,22 @@
+{
+  "name": "fit5225-a3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.583.0",
+    "amazon-cognito-identity-js": "^6.3.12",
+    "aws-sdk": "^2.1629.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.12"
+  }
+}

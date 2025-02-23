@@ -1,0 +1,14 @@
+11111,admin,password,AD,enabled
+12222,Taylor,^^^w!J#8$U%X&1($$$,TA,enabled, FIT9136
+13333,Bruno,^^^e!1#4$W%X&$$$,TA,enabled, FIT9131
+14444,Chen,^^^f!Q#N$W%$$$,TA,enabled, FIT9132
+15555,Tom,^^^w!X#V$$$$,ST,enabled,[('FIT9136', 80), ('FIT9131', 70)]
+16666,Jack,^^^m!J#L$T%$$$,ST,enabled,[('FIT9132', 60), ('FIT9136', 50), ('FIT9131', 40)]
+17777,John,^^^m!X#Q$W%$$$,ST,enabled,[('FIT9132', 70)]
+18888,Cindy,^^^f!R#W$M%8&$$$,ST,enabled,[('FIT9136', 30)]
+19999,Quinn,^^^t!4#R$W%W%$$$,ST,disabled,[('FIT9131', 20), ('FIT9136', 40)]
+21111,Brian,^^^e!1#R$J%W&$$$,ST,enabled,[('FIT9132', 60), ('FIT9136', 50)]
+22222,Linda,^^^o!R#W$M%J&$$$,ST,enabled,[('FIT9136', 50), ('FIT9132', 40)]
+23333,Wendy,^^^z!N#W$M%8&$$$,ST,enabled,[('FIT9132', 50), ('FIT9136', 60)]
+24444,Kony,^^^n!X#W$8%$$$,ST,enabled,[('FIT9131', 60), ('FIT9136', 70)]
+25555,Gina,^^^j!R#W$J%$$$,ST,enabled,[('FIT9131', 40), ('FIT9136', 90), ('FIT9132', 70)]
