@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Vite build output
+dist/
+
+# IDE files
+.idea/
+
+# Mac OS generated files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore all .env files
+.env*
+
