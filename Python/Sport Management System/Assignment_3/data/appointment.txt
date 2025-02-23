@@ -1,0 +1,6 @@
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Strength and conditioning coach'], 'datetime': '09:30 PM', 'branch_name': 'Monash Sport Clayton', 'pt_name': 'Richard', 'checkin': 'False'}
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Strength and conditioning coach'], 'datetime': '2023-10-14 06:30 PM', 'branch_name': 'Monash Sport Clayton', 'pt_name': 'Richard', 'checkin': 'False'}
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Strength and conditioning coach'], 'datetime': '2023-10-30 10:00 PM', 'branch_name': 'Monash Sport Clayton', 'pt_name': 'Richard', 'checkin': False}
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Reduce Weight Appointment'], 'datetime': '2023-10-29 06:30 PM', 'branch_name': 'Monash Sport Clayton', 'pt_name': 'Kris', 'checkin': False}
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Group exercise instructor'], 'datetime': '2023-10-21 07:00 PM', 'branch_name': 'Monash Sport Clayton', 'pt_name': 'Kris', 'checkin': False}
+{'member_name': 'Taylor', 'member_status': None, 'reason': ['Group exercise instructor'], 'datetime': '2023-10-26 07:00 AM', 'branch_name': 'Monash Sport Caulfield', 'pt_name': 'Alan', 'checkin': False}

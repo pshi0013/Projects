@@ -1,0 +1,3 @@
+1000000,FIT9136,Algorithms and programming foundations in Python,10
+2000000,FIT9131,Programming foundations in Java,5
+3000000,FIT9132,Introduction to databases,10

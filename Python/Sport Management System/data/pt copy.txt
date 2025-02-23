@@ -1,0 +1,20 @@
+{'first_name': 'Richard', 'last_name': 'Dallosso', 'specialisation': 'Strength and conditioning coach', 'gender': 'Male', 'branch': 'Monash Sport Clayton', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name':'Alan', 'last_name': 'Brouard', 'specialisation': 'Group exercise instructor', 'gender': 'Male', 'branch': 'Monash Sport Caulfield', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Mary', 'last_name': 'Jevons', 'specialisation': 'Fitness manager', 'gender': 'Female', 'branch': 'Monash Sport Mulgrave', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Shelly','last_name': 'Romanski', 'specialisation': 'Senior fitness specialist', 'gender': 'Female', 'branch': 'Monash Sport Glen Waverley', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Ric', 'last_name': 'Aikenhead', 'specialisation': 'Youth fitness specialist', 'gender': 'Male', 'branch': 'Monash Sport Richmond', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Correy','last_name': 'Willmot', 'specialisation': 'Weight loss transformation specialist', 'gender': 'Male', 'branch': 'Monash Sport Clayton', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Tim', 'last_name': 'Woolpert', 'specialisation': 'Bodybuilding specialist', 'gender': 'Male', 'branch': 'Monash Sport Caulfield', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Alex', 'last_name': 'Koppes', 'specialisation': 'Corrective exercise specialist', 'gender': 'Male', 'branch': 'Monash Sport Glen Waverley', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'White', 'last_name': 'Bigadike', 'specialisation': 'Strength and conditioning coach', 'gender': 'Male', 'branch': 'Monash Sport Richmond', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Kris', 'last_name': 'Witz', 'specialisation': 'Group exercise instructor', 'gender': 'Male', 'branch': 'Monash Sport Clayton', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'John', 'last_name': 'Gilli', 'specialisation': 'Fitness manager', 'gender': 'Male', 'branch': 'Monash Sport Caulfield', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Anni', 'last_name': 'Tern', 'specialisation': 'Senior fitness specialist', 'gender': 'Female', 'branch': 'Monash Sport Mulgrave', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Roxanne', 'last_name': 'Daws', 'specialisation': 'Youth fitness specialist', 'gender': 'Female', 'branch': 'Monash Sport Glen Waverley', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Ronni','last_name': 'Kerrey', 'specialisation': 'Weight loss transformation specialist', 'gender': 'Female', 'branch': 'Monash Sport Richmond', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Greg', 'last_name': 'Ivanikov', 'specialisation': 'Bodybuilding specialist', 'gender': 'Male', 'branch': 'Monash Sport Clayton', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Neils', 'last_name': 'Goldman', 'specialisation': 'Corrective exercise specialist', 'gender': 'Male', 'branch': 'Monash Sport Caulfield', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Athena', 'last_name': 'Philips','specialisation': 'Strength and conditioning coach', 'gender': 'Female', 'branch': 'Monash Sport Mulgrave', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Bonnie', 'last_name': 'Flooks', 'specialisation': 'Group exercise instructor', 'gender': 'Female', 'branch': 'Monash Sport Glen Waverley', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Kati', 'last_name': 'Lorraway', 'specialisation': 'Fitness manager', 'gender': 'Female', 'branch': 'Monash Sport Richmond', 'portfolio' : 'Hi, I am professional PT. '}
+{'first_name': 'Dolly', 'last_name': 'Gendrich', 'specialisation': 'Senior fitness specialist', 'gender': 'Female', 'branch': 'Monash Sport Clayton', 'portfolio' : 'Hi, I am professional PT. '}
